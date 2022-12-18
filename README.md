@@ -1,4 +1,6 @@
 # Expense_Tracker
+# Palak Bahl
+# 101917122
 Open this folder in any suitable compiler (preferably VS code or Atom)
 
 1. This project have already an environment set for your convinience. To activate the environment, on your terminal follow the below command without qoutes :-
